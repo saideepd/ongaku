@@ -1262,6 +1262,42 @@ osts = [
 		"link" : "https://my.mixtape.moe/swjtom.mp3",
 		"name" : "Boku no Hero Academia S2 OST-2 Jet Set Run",
 		"img" : "https://images6.alphacoders.com/820/820024.png"
+	},
+	
+	{
+		"link" : "https://goo.gl/Tp9L6u",
+		"name" : "Re:Zero Kara Hajimeru Isekai Seikatsu OST - Opening 1",
+		"img" : "https://image.tmdb.org/t/p/original/n6YYb2jMN0UE1YNJcPSHnwX7vMq.jpg"
+	},
+
+	{
+		"link" : "https://goo.gl/ruvpKt",
+		"name" : "Bleach OST 1 - Asterisk - Orange Range",
+		"img" : "https://i.ytimg.com/vi/LGAYnGcOd2o/maxresdefault.jpg"
+	},
+	
+	{
+		"link" : "https://goo.gl/6QrSCC",
+		"name" : "Detective Conan OST 1",
+		"img" : "https://www.pixelstalk.net/wp-content/uploads/2016/10/Manga-Detective-Conan-Pictures.jpg"
+	},
+
+	{
+		"link" : "https://goo.gl/Fe2hFv",
+		"name" : "One Piece OST - Epic Battle Theme",
+		"img" : "https://i.imgur.com/7hdijZP.jpg"
+	},
+
+	{
+		"link" : "https://goo.gl/swVpYf",
+		"name" : "Inazuma Eleven OST - Opening Theme Song",
+		"img" : "https://images4.alphacoders.com/675/thumb-1920-675017.jpg"
+	},
+
+	{
+		"link" : "https://goo.gl/dq8M5w",
+		"name" : "Death Note OST - Death Note",
+		"img" : "https://i.ytimg.com/vi/fIeGTEQPAKE/maxresdefault.jpg"
 	}
 	
 ]
